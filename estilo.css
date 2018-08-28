@@ -7,6 +7,12 @@ body {
   font-family: Arial;
 }
 
+
+head {
+  font-family: "Kaushan Script";
+  font-size: 36px;
+}
+
 #cabecalho {
   background-color: #6175f0;
   padding: 0;
